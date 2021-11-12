@@ -39,3 +39,11 @@ Here is the discussion over coloring the navigation bar: https://forum.obsidian.
     background-color: var(--FoldF);}
 ```
 ## Image relative
+
+### img-centering.css
+
+![screen shot from my notes](https://cdn.mathpix.com/snip/images/SLO9HUKRy8OJg3v87qyXyM9L22aoespys8auXczTc2A.original.fullsize.png)
+
+### img-shadow-roundedBorder.css
+
+![![](https://cdn.mathpix.com/snip/images/SsffNGNpN0DMq5Sm9z8SupYnXR6Uu4CL6x9HLBkp3TA.original.fullsize.png)](https://cdn.mathpix.com/snip/images/SsffNGNpN0DMq5Sm9z8SupYnXR6Uu4CL6x9HLBkp3TA.original.fullsize.png)
