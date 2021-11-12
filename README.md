@@ -42,8 +42,30 @@ Here is the discussion over coloring the navigation bar: https://forum.obsidian.
 
 ### img-centering.css
 
+- The `css code` is here: https://github.com/ZizhengYang/Collection-Obsidian-Snippets/blob/main/Image%20relative/img-centering.css
+- Original github.com repository: Doesn't exists
+- Contributor: @猫老大的小站台; [the blog](https://publish.obsidian.md/maolaoda/%E5%AD%A6%E4%B9%A0/%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/Obsidian%E9%85%8D%E7%BD%AE)
+
 ![screen shot from my notes](https://cdn.mathpix.com/snip/images/SLO9HUKRy8OJg3v87qyXyM9L22aoespys8auXczTc2A.original.fullsize.png)
+
+```css
+very simple ~ just look up the code
+```
 
 ### img-shadow-roundedBorder.css
 
-![![](https://cdn.mathpix.com/snip/images/SsffNGNpN0DMq5Sm9z8SupYnXR6Uu4CL6x9HLBkp3TA.original.fullsize.png)](https://cdn.mathpix.com/snip/images/SsffNGNpN0DMq5Sm9z8SupYnXR6Uu4CL6x9HLBkp3TA.original.fullsize.png)
+- The `css code` is here: https://github.com/ZizhengYang/Collection-Obsidian-Snippets/blob/main/Image%20relative/img-shadow-roundedBorder.css
+- Original github.com repository: Doesn't exists
+- Contributor: @猫老大的小站台; [the blog](https://publish.obsidian.md/maolaoda/%E5%AD%A6%E4%B9%A0/%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6/Obsidian%E9%85%8D%E7%BD%AE)
+
+![screen shot from my notes](https://cdn.mathpix.com/snip/images/SsffNGNpN0DMq5Sm9z8SupYnXR6Uu4CL6x9HLBkp3TA.original.fullsize.png)
+
+```css
+.markdown-preview-view img {
+    max-width: 100%;
+    outline: none;
+    -webkit-filter: drop-shadow(10px 10px 10px rgba(8, 8, 8, 0.5)); /* the setting for the shadow effect */
+        background-clip: content-box,padding-box;
+        border-radius: 20px 20px 20px; /* the setting for the border rounding */
+}
+```
