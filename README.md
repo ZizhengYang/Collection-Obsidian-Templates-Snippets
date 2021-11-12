@@ -11,5 +11,5 @@ Here is the discussion over coloring the navigation bar: https://forum.obsidian.
 
 - The `css code` is here: https://github.com/ZizhengYang/Collection-Obsidian-Snippets/blob/main/Color%20and%20Icon/colored-folders.css
 - Original github.com repository: I didn't found
-- Contributor: @Lithou: Colored Folders.css; ![the forum](https://forum.obsidian.md/t/adding-color-to-obsidian-a-rainbow-of-possibility/12805/11
+- Contributor: @Lithou: Colored Folders.css; [the forum](https://forum.obsidian.md/t/adding-color-to-obsidian-a-rainbow-of-possibility/12805/11
 )
