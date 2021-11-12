@@ -29,9 +29,11 @@ Here is the discussion over coloring the navigation bar: https://forum.obsidian.
 
 ```css
 <!-- we can insert a new rule of coloring as below -->
+
 .nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title[data-path^="YOUR-FOLDER-STARTING-LETTERS"],
     .nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title[data-path^="YOUR-FOLDER-STARTING-LETTERS"] + .nav-folder-children{
     background-color: var(--FoldF);}
+
 .nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title[data-path^="YOUR-FOLDER-NAME"],
     .nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title[data-path^="YOUR-FOLDER-NAME"] + .nav-folder-children{
     background-color: var(--FoldF);}
