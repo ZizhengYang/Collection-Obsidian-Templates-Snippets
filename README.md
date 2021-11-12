@@ -38,3 +38,4 @@ Here is the discussion over coloring the navigation bar: https://forum.obsidian.
     .nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title[data-path^="YOUR-FOLDER-NAME"] + .nav-folder-children{
     background-color: var(--FoldF);}
 ```
+## Image relative
