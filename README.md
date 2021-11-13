@@ -69,3 +69,6 @@ very simple ~ just look up the code
         border-radius: 20px 20px 20px; /* the setting for the border rounding */
 }
 ```
+
+## Starting of the templates section:
+
