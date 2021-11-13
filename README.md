@@ -72,3 +72,4 @@ very simple ~ just look up the code
 
 ## Starting of the templates section:
 
+- https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets/blob/main/Templates/Prose.md: A template to write daily proses
